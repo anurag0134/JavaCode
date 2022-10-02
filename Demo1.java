@@ -4,6 +4,5 @@ public class Demo1
     {
         boolean is,married=true;
         System.out.println(married);
-
     }
 }
